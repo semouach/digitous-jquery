@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $(text).show("text")
+    $("#text").css("display","flex")
 })
